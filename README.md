@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Palavras de Afirmação;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Resumo com imagens do caápitulo 1 do livro As 5 Linguagens do Amor, de Gary Chapman
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+coplilot
+Canva
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Resumo e definição de imagens no copilot e criação do ebook no canva
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://www.canva.com/design/DAGZn5CI2YY/7h9xnMHB6dlEq8roaI5d4w/edit?utm_content=DAGZn5CI2YY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
